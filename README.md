@@ -19,7 +19,7 @@ support.js        … 描画ランタイム（index.html と同じ階層に必�
 image-slot.js     … 画像表示用スクリプト（同上）
 assets/
   hero-bg.png     … トップの背景＋人物写真
-  eiken-photo.png … 人物写真（予備）
+  hero-mobile.png … スマートフォン版トップの背景＋人物写真
   mission.webp    … Mission セクションの写真
   note.webp       … note バナー画像
 ```
