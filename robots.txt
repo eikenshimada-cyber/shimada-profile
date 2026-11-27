@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eikenshimada-cyber.github.io/shimada-profile/sitemap.xml
